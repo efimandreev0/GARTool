@@ -1,3 +1,3 @@
 Tool was tested with:
-Ever Oasis
-Luigi's Mansion
+Ever Oasis;
+Luigi's Mansion;
